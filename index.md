@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+# Welcome to Project 2 (Week 2!)Review
 
-You can use the [editor on GitHub](https://github.com/CharlezDouglas1/cit281-p2/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+For this project we were preparing ourselves to be able to Gain experience using git via our CLI and Visual Studio Code (VSCode) Source Control and
+Gain experience writing and executing non-web server Node.js JavaScript code
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Main TakeAway/Interesy From this Project:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- My main interest was the apesct when we had to use the CLI to process and create git files that we wanted to ignore and also commiting and staging changes through the CLI
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## Displaying the "Source Control" and also the documentation message using the "Diff Split Screen"
+<img width="696" alt="p2-vscode-diff" src="https://user-images.githubusercontent.com/81718217/120877521-d1fb1e00-c56b-11eb-826d-5bffb92eb69f.png">
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CharlezDouglas1/cit281-p2/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
